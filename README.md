@@ -1,23 +1,8 @@
-# Hi there, I'm Mohammad Saqlain 👋
+# Hi there, I'm Mohammad Saqlain. 
 
 I'm a Software Engineer and Entrepreneur!
 
 - 🌱 **I’m currently learning:** React+Springboot
-
-```javascript
-const Saqlain = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "React JS", "Node JS"],
-  askMeAbout: ["web dev", "tech", "app dev"],
-  technologies: {
-    frontEnd: { js: ["React", "JavaScript"], css: ["Tailwind", "Bootstrap"] },
-    backEnd: { js: ["--", "--"] },
-    databases: ["MongoDB", "MySQL"],
-    mobileApp: ["Nill"]
-  },
-  architecture: ["Progressive web applications", "Single page applications"],
-  funFact: "There are two ways to write error-free programs; only the third one works"
-};```
 
 
 ## 🏆 GitHub Trophies
