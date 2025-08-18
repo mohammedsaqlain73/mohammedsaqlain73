@@ -1,15 +1,25 @@
-# 💫 Hi , I'm mohammed saqlain
-**A passionate btech student from Odisha,India**
+# Hi there, I'm Mohammad Saqlain 👋
 
-Email Me 👉 ✉️ **mdsaq02@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+I'm a Software Engineer and Entrepreneur!
 
 - 🌱 **I’m currently learning:** React+Springboot
-- 👯 **I’m looking to collaborate on:** fullstack java
-- 💬 **Ask me about:** React,python, java
-- 📫 **How to reach me:** mdsaq02@gmail.com
-- 😄 **Pronouns:** saqlain Sir
-- ⚡ **Fun fact:** Eager and passionate about tech
+
+```javascript
+const Saqlain = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "React JS", "Node JS"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+    frontEnd: { js: ["React", "JavaScript"], css: ["Tailwind", "Bootstrap"] },
+    backEnd: { js: ["--", "--"] },
+    databases: ["MongoDB", "MySQL"],
+    mobileApp: ["Nill"]
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Socials:
