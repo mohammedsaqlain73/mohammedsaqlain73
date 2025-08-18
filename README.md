@@ -54,7 +54,7 @@ const Saqlain = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaqlain73&theme=dark&hide_border=false)
 
 
-![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)<br>
 
 #</div><br>
 # 📊 GitHub Stats:
