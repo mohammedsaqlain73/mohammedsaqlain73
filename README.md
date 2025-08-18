@@ -57,7 +57,8 @@ const Saqlain = {
 <br />
 <br />
 <br />
-![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
+![](https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif)
+
 <br />
 
 #</div><br>
