@@ -49,15 +49,11 @@ const Saqlain = {
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsaqlain73&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=mohammedsaqlain73&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaqlain73&theme=dark&hide_border=false)
-
 
 <br />
 <br />
 <br />
-![](https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif)
+![](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long.gif)
 
 <br />
 
