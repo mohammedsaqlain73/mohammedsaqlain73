@@ -22,8 +22,7 @@ const Saqlain = {
 ```
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techwhiz_saq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-saqlain-1b7774309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csesaq07@gmail.com) 
 <!-- Snake Game Repo View -->
@@ -56,6 +55,9 @@ const Saqlain = {
 ![](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long.gif)
 
 <br />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #</div><br>
 <!--# 📊 GitHub Stats:
