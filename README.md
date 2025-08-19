@@ -46,22 +46,14 @@ const Saqlain = {
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=mohammedsaqlain73&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsaqlain73&theme=radical">
 
-</div>
-
-
-<br />
-<br />
-<br />
-![](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long.gif)
-
 <br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-#</div><br>
+</div><br>
 <!--# 📊 GitHub Stats:
-#![](https://github-readme-stats.vercel.app/api?username=mohammedsaqlain73&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohammedsaqlain73&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 #![](https://nirzak-streak-stats.vercel.app/?user=mohammedsaqlain73&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsaqlain73&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
