@@ -62,7 +62,7 @@ const Saqlain = {
 <br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohammedsaqlain73&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div><br>
 <!--# 📊 GitHub Stats:
